@@ -7,8 +7,8 @@ const contact = () => {
         
         <div className="mb-8 text-center">
           <img
-            className="mx-auto h-12 w-auto"
-            src="/logo.svg"
+            className="mx-auto h-[7rem] w-auto"
+            src="/Logo.png"
             alt="Nike Logo"
           />
           <h2 className="text-2xl font-semibold  text-gray-800">

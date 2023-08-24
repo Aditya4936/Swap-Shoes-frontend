@@ -26,7 +26,7 @@ const RegistrationForm = () => {
     <div className="max-w-md mx-auto mt-8 p-4">
       {/* <h2 className="text-2xl font-semibold mb-4">Register</h2> */}
       <div className="mb-8 text-center">
-        <img className="mx-auto h-10 mb-5 w-auto" src="/logo.svg" alt="Nike Logo" />
+        <img className="mx-auto h-10 mb-5 w-auto" src="/Logo.png" alt="Nike Logo" />
         <h2 className="text-xl font-semibold  text-gray-800">
           BECOME A SWAP-SHOES MEMBER
         </h2>

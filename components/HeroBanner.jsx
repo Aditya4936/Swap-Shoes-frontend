@@ -1,4 +1,4 @@
-import React from 'react'
+import React from "react";
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 import { Carousel } from "react-responsive-carousel";
 import { BiArrowBack } from "react-icons/bi";
@@ -6,7 +6,7 @@ import { BiArrowBack } from "react-icons/bi";
 const HeroBanner = () => {
   return (
     <div className="relative text-white text-[20px] w-full max-w-[1360px] mx-auto">
-<Carousel
+      <Carousel
         autoPlay={true}
         infiniteLoop={true}
         showThumbs={false}
@@ -75,13 +75,8 @@ const HeroBanner = () => {
           </div>
         </div>
       </Carousel>
-      
-
-
     </div>
-  
-  
-    )
-}
+  );
+};
 
-export default HeroBanner
+export default HeroBanner;

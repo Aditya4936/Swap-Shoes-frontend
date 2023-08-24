@@ -8,8 +8,8 @@ const Login = () => {
         {/* <h2 className="text-2xl font-semibold mb-4">Login</h2> */}
         <div className="mb-8 text-center">
           <img
-            className="mx-auto mb-5 h-10 w-auto"
-            src="/logo.svg"
+            className="mx-auto mb-5 h-[6rem] w-auto"
+            src="/Logo.png"
             alt="Nike Logo"
           />
           <h2 className="text-xl font-semibold  text-gray-800">
