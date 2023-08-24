@@ -72,7 +72,7 @@ const Header = () => {
        )}
         <div className="flex items-center gap-2">
           {/* icon start */}
-          <div
+          {/* <div
             className="w-8 md:w-12 h-8 md:h-12 rounded-full flex justify-center
             items-center hover:bg-black/[0.05] cursor-pointer relative"
           >
@@ -84,7 +84,7 @@ const Header = () => {
             >
               10
             </div>
-          </div>
+          </div> */}
           {/* icon-end */}
           {/* icon start */}
           <Link href="/Cart">
